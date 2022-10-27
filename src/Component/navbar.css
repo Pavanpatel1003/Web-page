@@ -1,0 +1,14 @@
+.navcss {
+    padding: 15px;
+    font-size: 25px;
+    font-weight: 700;
+    color: white !important;
+    background: linear-gradient(0.25turn, #7852b3, hsl(242deg 88% 66%), hsl(242deg 67% 51%));
+}
+
+.menu {
+    width: 17px;
+    height: 27px;
+    background-image: radial-gradient(circle, white 1px, transparent 3px);
+    background-size: 95% 33.33%;
+}

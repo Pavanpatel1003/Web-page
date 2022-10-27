@@ -1,0 +1,36 @@
+.round{
+    border-radius: 50%;
+    height: 55px;
+    width: 55px;
+    border: 1px solid #bbb2b2;
+}
+
+.widthcss{
+    width: max-content;
+}
+
+.person1{
+    background-image: url('../../public/person-1.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.person2{
+    background-image: url('../../public/person-2.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.person3{
+    background-image: url('../../public/person-3.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.person4{
+    background-image: url('../../public/person-4.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
